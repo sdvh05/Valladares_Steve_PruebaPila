@@ -11,9 +11,9 @@ int main() {
 
     //frase="Anita lava la tina";
 
-    // Limpiar buffers ??
+    // Limpiar buffers
     std::cin.clear();
-    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+    
 
 
       while (true) {
